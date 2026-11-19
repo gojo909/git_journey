@@ -1,3 +1,1 @@
-o
-la _peace
-ne 1 one
+one 1 one
